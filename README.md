@@ -1,1 +1,1 @@
-# notes
+these are just randim notes for projects 
